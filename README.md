@@ -23,4 +23,5 @@ QFramer:https://github.com/dragondjf/QFramer
 **QtAV is free software licensed under the term of LGPL v2.1. The player example is licensed under GPL v3.  If you use QtAV or its constituent libraries,
 you must adhere to the terms of the license in question.**
 =======
-
+＃本源是对Mvgather的移植开发，迁移平台从GNU/Linux到OS X，由于本人是初学者，所以本项目很大程度上属于自娱自乐，欢迎有急需此程序并且会OS X开发的朋友联系我:D
+也欢迎来信指导～～

@@ -422,7 +422,6 @@
 				08CA65181A7F56960067ED46 /* MvGather.pro.user */,
 				08CA65191A7F56960067ED46 /* MvGather.pro.user.3.2-pre1 */,
 				08CA651A1A7F56960067ED46 /* MvGather.pro.user.nP3052 */,
-				08CA651B1A7F56960067ED46 /* README.md */,
 				08CA651C1A7F56960067ED46 /* rs.qrc */,
 				08CA651D1A7F56960067ED46 /* selectsourcewidget.cpp */,
 				08CA64CF1A7F55DD0067ED46 /* AppDelegate.h */,
@@ -439,6 +438,7 @@
 		08CA64CD1A7F55DD0067ED46 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				08CA651B1A7F56960067ED46 /* README.md */,
 				08CA65321A7F56A70067ED46 /* MyWidgets */,
 				08CA657C1A7F56A70067ED46 /* QFramer */,
 				08CA659C1A7F56A70067ED46 /* skin */,
@@ -1138,6 +1138,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = MvGather/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1149,6 +1150,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = MvGather/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
